@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/DesktopSprite">
+        <file>Resources/Alert1.png</file>
+        <file>Resources/Alert2.png</file>
+        <file>Resources/Alert3.png</file>
+        <file>Resources/Alert4.png</file>
+        <file>Resources/Connecting1.png</file>
+        <file>Resources/Connecting2.png</file>
+        <file>Resources/Connecting3.png</file>
+        <file>Resources/Connecting4.png</file>
+        <file>Resources/Connecting5.png</file>
+        <file>Resources/Connecting6.png</file>
+        <file>Resources/Connecting7.png</file>
+        <file>Resources/Connecting8.png</file>
+        <file>Resources/Awake.png</file>
+        <file>Resources/Idle.png</file>
+        <file>Resources/Sleep.png</file>
+    </qresource>
+</RCC>
